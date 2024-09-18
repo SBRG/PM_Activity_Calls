@@ -1,0 +1,97 @@
+Well	Compound	Description	KEGG ID	CAS ID
+A01	pH 3.5	pH, growth at 3.5		CAS pH
+A02	pH 4	pH, growth at 4		CAS pH
+A03	pH 4.5	pH, growth at 4.5		CAS pH
+A04	pH 5	pH, growth at 5		CAS pH
+A05	pH 5.5	pH, growth at 5.5		CAS pH
+A06	pH 6	pH, growth at 6		CAS pH
+A07	pH 7	pH, growth at 7		CAS pH
+A08	pH 8	pH, growth at 8		CAS pH
+A09	pH 8.5	pH, growth at 8.5		CAS pH
+A10	pH 9	pH, growth at 9		CAS pH
+A11	pH 9.5	pH, growth at 9.5		CAS pH
+A12	pH 10	pH, growth at 10		CAS pH
+B01	pH 4.5	pH, decarboxylase control		CAS pH
+B02	pH 4.5 + L-Alanine	pH, decarboxylase	C00041	CAS 56-41-7
+B03	pH 4.5 + L-Arginine	pH, decarboxylase	C00062	CAS 1119-34-2
+B04	pH 4.5 + L-Asparagine	pH, decarboxylase	C00152	CAS 70-47-3
+B05	pH 4.5 + L-Aspartic acid	pH, decarboxylase	C00049	CAS 3792-50-5
+B06	pH 4.5 + L-Glutamic acid	pH, decarboxylase	C00025	CAS 142-47-2
+B07	pH 4.5 + L-Glutamine	pH, decarboxylase	C00064	CAS 56-85-9
+B08	pH 4.5 + Glycine	pH, decarboxylase	C00037	CAS 56-40-6
+B09	pH 4.5 + L-Histidine	pH, decarboxylase	C00135	CAS 5934-29-2
+B10	pH 4.5 + L-Isoleucine	pH, decarboxylase	C00407	CAS 73-32-5
+B11	pH 4.5 + L-Leucine	pH, decarboxylase	C00123	CAS 61-90-5
+B12	pH 4.5 + L-Lysine	pH, decarboxylase	C00047	CAS 657-27-2
+C01	pH 4.5 + L-Methionine	pH, decarboxylase	C00073	CAS 63-68-3
+C02	pH 4.5 + L-Phenylalanine	pH, decarboxylase	C00079	CAS 63-91-2
+C03	pH 4.5 + L-Proline	pH, decarboxylase	C00148	CAS 147-85-3
+C04	pH 4.5 + L-Serine	pH, decarboxylase	C00065	CAS 56-45-1
+C05	pH 4.5 + L-Threonine	pH, decarboxylase	C00188	CAS 72-19-5
+C06	pH 4.5 + L-Tryptophan	pH, decarboxylase	C00078	CAS 73-22-3
+C07	pH 4.5 + L-Citrulline	pH, decarboxylase	C00327	CAS 372-75-8
+C08	pH 4.5 + L-Valine	pH, decarboxylase	C00183	CAS 72-18-4
+C09	pH 4.5 + Hydroxy-L-Proline	pH, decarboxylase	C01015	CAS 51-35-4
+C10	pH 4.5 + L-Ornithine	pH, decarboxylase	C00077	CAS 3184-13-2
+C11	pH 4.5 + L-Homoarginine	pH, decarboxylase		CAS 1483-01-8
+C12	pH 4.5 + L-Homoserine	pH, decarboxylase	C00263	CAS 672-15-1
+D01	pH 4.5 + Anthranilic acid	pH, decarboxylase	C00108	CAS 118-92-3
+D02	pH 4.5 + L-Norleucine	pH, decarboxylase	C01933	CAS 327-57-1
+D03	pH 4.5 + L-Norvaline	pH, decarboxylase	C01826	CAS 6600-40-4
+D04	pH 4.5 + a-Amino-N-Butyric acid	pH, decarboxylase	C02261	CAS 2835-81-6
+D05	pH 4.5 + p-Aminobenzoate	pH, decarboxylase	C00568	CAS 555-06-6
+D06	pH 4.5 + L-Cysteic acid	pH, decarboxylase	C00506	CAS 23537-25-9
+D07	pH 4.5 + D-Lysine	pH, decarboxylase	C00739	CAS 923-27-3
+D08	pH 4.5 + 5-Hydroxy-L-Lysine	pH, decarboxylase	C01211	CAS 1190-94-9
+D09	pH 4.5 + 5-Hydroxy-L-Tryptophan	pH, decarboxylase		CAS 4350-09-8
+D10	pH 4.5 + DL-Diamino-a,e-Pimelic acid	pH, decarboxylase	C00680	CAS 2577-62-0
+D11	pH 4.5 + Trimethylamine-N-Oxide	pH, decarboxylase	C01104	CAS 1184-78-7
+D12	pH 4.5 + Urea	pH, decarboxylase	C00086	CAS 57-13-6
+E01	pH 9.5	pH, deaminase control		CAS pH
+E02	pH 9.5 + L-Alanine	pH, deaminase	C00041	CAS 56-41-7
+E03	pH 9.5 + L-Arginine	pH, deaminase	C00062	CAS 1119-34-2
+E04	pH 9.5 + L-Asparagine	pH, deaminase	C00152	CAS 70-47-3
+E05	pH 9.5 + L-Aspartic acid	pH, deaminase	C00049	CAS 3792-50-5
+E06	pH 9.5 + L-Glutamic acid	pH, deaminase	C00025	CAS 142-47-2
+E07	pH 9.5 + L-Glutamine	pH, deaminase	C00064	CAS 56-85-9
+E08	pH 9.5 + Glycine	pH, deaminase	C00037	CAS 56-40-6
+E09	pH 9.5 + L-Histidine	pH, deaminase	C00135	CAS 5934-29-2
+E10	pH 9.5 + L-Isoleucine	pH, deaminase	C00407	CAS 73-32-5
+E11	pH 9.5 + L-Leucine	pH, deaminase	C00123	CAS 61-90-5
+E12	pH 9.5 + L-Lysine	pH, deaminase	C00047	CAS 657-27-2
+F01	pH 9.5 + L-Methionine	pH, deaminase	C00073	CAS 63-68-3
+F02	pH 9.5 + L-Phenylalanine	pH, deaminase	C00079	CAS 63-91-2
+F03	pH 9.5 + L-Proline	pH, deaminase	C00148	CAS 147-85-3
+F04	pH 9.5 + L-Serine	pH, deaminase	C00065	CAS 56-45-1
+F05	pH 9.5 + L-Threonine	pH, deaminase	C00188	CAS 72-19-5
+F06	pH 9.5 + L-Tryptophan	pH, deaminase	C00078	CAS 73-22-3
+F07	pH 9.5 + L-Tyrosine	pH, deaminase	C00082	CAS 60-18-4
+F08	pH 9.5 + L-Valine	pH, deaminase	C00183	CAS 72-18-4
+F09	pH 9.5 + Hydroxy-L-Proline	pH, deaminase	C01015	CAS 51-35-4
+F10	pH 9.5 + L-Ornithine	pH, deaminase	C00077	CAS 3184-13-2
+F11	pH 9.5 + L-Homoarginine	pH, deaminase		CAS 1483-01-8
+F12	pH 9.5 + L-Homoserine	pH, deaminase	C00263	CAS 672-15-1
+G01	pH 9.5 + Anthranilic acid	pH, deaminase	C00108	CAS 118-92-3
+G02	pH 9.5 + L-Norleucine	pH, deaminase	C01933	CAS 327-57-1
+G03	pH 9.5 + L-Norvaline	pH, deaminase	C01826	CAS 6600-40-4
+G04	pH 9.5 + Agmatine	pH, deaminase	C00179	CAS 2482-00-0
+G05	pH 9.5 + Cadaverine	pH, deaminase	C01672	CAS 462-94-2
+G06	pH 9.5 + Putrescine	pH, deaminase	C00134	CAS 333-93-7
+G07	pH 9.5 + Histamine	pH, deaminase	C00388	CAS 56-92-8
+G08	pH 9.5 + b-Phenylethylamine	pH, deaminase	C05332	CAS 156-28-5
+G09	pH 9.5 + Tyramine	pH, deaminase	C00483	CAS 60-19-5
+G10	pH 9.5 + Creatine	pH, deaminase	C00300	CAS 57-00-1
+G11	pH 9.5 + Trimethylamine-N-Oxide	pH, deaminase	C01104	CAS 1184-78-7
+G12	pH 9.5 + Urea	pH, deaminase	C00086	CAS 57-13-6
+H01	X-Caprylate	caprylate esterase		CAS 129541-42-0
+H02	X-a-D-Glucoside	a-D-glucosidase		CAS 108789-36-2
+H03	X-b-D-Glucoside	b-D-glucosidase		CAS 15548-60-4
+H04	X-a-D-Galactoside	a-D-galactosidase		CAS 107021-38-5
+H05	X-b-D-Galactoside	b-D-galactosidase		CAS 7240-90-6
+H06	X-a-D-Glucuronide	a-D-glucuronidase		CAS X-a-D-Glucuronide
+H07	X-b-D-Glucuronide	b-D-glucuronidase		CAS X-b-D-Glucuronide
+H08	X-b-D-Glucosaminide	b-D-glucosaminidase		CAS X-b-D-Glucosaminide
+H09	X-b-D-Galactosaminide	b-D-galactosaminidase		CAS X-b-D-Galactosaminide
+H10	X-a-D-Mannoside	a-D-mannosidase		CAS 125229-64-3
+H11	X-PO4	aryl phosphatase		CAS 102185-33-1
+H12	X-SO4	aryl sulfatase		CAS 6578-07-0

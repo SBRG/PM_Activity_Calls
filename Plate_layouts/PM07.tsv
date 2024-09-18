@@ -1,0 +1,97 @@
+Well	Compound	Description	KEGG ID	CAS ID
+A01	Negative Control	N-Source, Negative control		CAS Negative Control
+A02	L-Glutamine	N-Source, amino acid	C00064	CAS 56-85-9
+A03	Leu-Ser	N-Source, peptide		CAS 6209-12-7
+A04	Leu-Trp	N-Source, peptide	C02732	CAS 5156-22-9
+A05	Leu-Val	N-Source, peptide		CAS 13588-95-9
+A06	Lys-Ala	N-Source, peptide		CAS 17043-71-9
+A07	Lys-Arg	N-Source, peptide	C05034	CAS 29586-66-1
+A08	Lys-Glu	N-Source, peptide		CAS 45234-02-4
+A09	Lys-Ile	N-Source, peptide		CAS 20556-13-2
+A10	Lys-Leu	N-Source, peptide	C05035	CAS 7369-79-1
+A11	Lys-Lys	N-Source, peptide	C05036	CAS 13184-13-9
+A12	Lys-Phe	N-Source, peptide		CAS 4078-58-4
+B01	Lys-Pro	N-Source, peptide		CAS 52766-27-5
+B02	Lys-Ser	N-Source, peptide		CAS 275366-32-0
+B03	Lys-Thr	N-Source, peptide		CAS 97791-84-9
+B04	Lys-Trp	N-Source, peptide	C02732	CAS 50674-18-5
+B05	Lys-Tyr	N-Source, peptide	C05039	CAS 35978-98-4
+B06	Lys-Val	N-Source, peptide		CAS 20556-11-0
+B07	Met-Arg	N-Source, peptide	C05034	CAS 60461-10-1
+B08	Met-Asp	N-Source, peptide	C02871	CAS 14595-65-4
+B09	Met-Gln	N-Source, peptide		CAS 36261-62-8
+B10	Met-Glu	N-Source, peptide		CAS 14517-44-3
+B11	Met-Gly	N-Source, peptide		CAS 14486-03-4
+B12	Met-His	N-Source, peptide		CAS 14486-12-5
+C01	Met-Ile	N-Source, peptide		CAS 40883-17-8
+C02	Met-Leu	N-Source, peptide	C05035	CAS 14486-16-9
+C03	Met-Lys	N-Source, peptide	C05036	CAS 45214-88-8
+C04	Met-Met	N-Source, peptide		CAS 7349-78-2
+C05	Met-Phe	N-Source, peptide		CAS 14492-14-9
+C06	Met-Pro	N-Source, peptide		CAS 142702-34-9
+C07	Met-Trp	N-Source, peptide	C02732	CAS 60535-02-6
+C08	Met-Val	N-Source, peptide		CAS 14486-13-6
+C09	Phe-Ala	N-Source, peptide		CAS 3918-87-4
+C10	Phe-Gly	N-Source, peptide		CAS 721-90-4
+C11	Phe-Ile	N-Source, peptide		CAS 22951-94-6
+C12	Phe-Phe	N-Source, peptide		CAS 2577-40-4
+D01	Phe-Pro	N-Source, peptide		CAS 7669-65-0
+D02	Phe-Ser	N-Source, peptide		CAS 16053-39-7
+D03	Phe-Trp	N-Source, peptide	C02732	CAS 24587-41-5
+D04	Pro-Ala	N-Source, peptide		CAS 6422-36-2
+D05	Pro-Asp	N-Source, peptide	C02871	CAS 85227-98-1
+D06	Pro-Gln	N-Source, peptide		CAS 18668-08-1
+D07	Pro-Gly	N-Source, peptide		CAS 2578-57-6
+D08	Pro-Hyp	N-Source, peptide		CAS 18684-24-7
+D09	Pro-Leu	N-Source, peptide	C05035	CAS 52899-07-7
+D10	Pro-Phe	N-Source, peptide		CAS 13589-02-1
+D11	Pro-Pro	N-Source, peptide		CAS 76932-06-4
+D12	Pro-Tyr	N-Source, peptide	C05039	CAS 19786-36-8
+E01	Ser-Ala	N-Source, peptide		CAS 6403-17-4
+E02	Ser-Gly	N-Source, peptide		CAS 687-63-8
+E03	Ser-His	N-Source, peptide		CAS 67726-09-4
+E04	Ser-Leu	N-Source, peptide	C05035	CAS 6665-16-3
+E05	Ser-Met	N-Source, peptide		CAS 3227-09-6
+E06	Ser-Phe	N-Source, peptide		CAS 16875-28-8
+E07	Ser-Pro	N-Source, peptide		CAS 23827-93-2
+E08	Ser-Ser	N-Source, peptide		CAS 6620-95-7
+E09	Ser-Tyr	N-Source, peptide	C05039	CAS 21435-27-8
+E10	Ser-Val	N-Source, peptide		CAS 51782-06-0
+E11	Thr-Ala	N-Source, peptide		CAS 56217-50-6
+E12	Thr-Arg	N-Source, peptide	C05034	CAS 13448-26-5
+F01	Thr-Glu	N-Source, peptide		CAS 54532-73-9
+F02	Thr-Gly	N-Source, peptide		CAS 686-44-2
+F03	Thr-Leu	N-Source, peptide	C05035	CAS 50299-12-2
+F04	Thr-Met	N-Source, peptide		CAS 90729-28-5
+F05	Thr-Pro	N-Source, peptide		CAS 281670-51-7
+F06	Trp-Ala	N-Source, peptide		CAS 24046-71-7
+F07	Trp-Arg	N-Source, peptide	C05034	CAS 88831-09-8
+F08	Trp-Asp	N-Source, peptide	C02871	CAS 71835-78-4
+F09	Trp-Glu	N-Source, peptide		CAS 36099-95-3
+F10	Trp-Gly	N-Source, peptide		CAS 7360-09-0
+F11	Trp-Leu	N-Source, peptide	C05035	CAS 13123-35-8
+F12	Trp-Lys	N-Source, peptide	C05036	CAS 51790-14-8
+G01	Trp-Phe	N-Source, peptide		CAS 6686-02-8
+G02	Trp-Ser	N-Source, peptide		CAS 133101-40-3
+G03	Trp-Trp	N-Source, peptide	C02732	CAS 20696-60-0
+G04	Trp-Tyr	N-Source, peptide	C05039	CAS 19653-76-0
+G05	Tyr-Ala	N-Source, peptide		CAS 730-08-5
+G06	Tyr-Gln	N-Source, peptide		CAS 28252-40-6
+G07	Tyr-Glu	N-Source, peptide		CAS 2545-89-3
+G08	Tyr-Gly	N-Source, peptide		CAS 673-08-5
+G09	Tyr-His	N-Source, peptide		CAS 3788-44-1
+G10	Tyr-Leu	N-Source, peptide	C05035	CAS 17355-10-1
+G11	Tyr-Lys	N-Source, peptide	C05036	CAS 54925-88-1
+G12	Tyr-Phe	N-Source, peptide		CAS 17355-11-2
+H01	Tyr-Trp	N-Source, peptide	C02732	CAS 60815-41-0
+H02	Tyr-Tyr	N-Source, peptide	C05039	CAS 1050-28-8
+H03	Val-Arg	N-Source, peptide	C05034	CAS 37682-75-0
+H04	Val-Asn	N-Source, peptide		CAS 66170-00-1
+H05	Val-Asp	N-Source, peptide	C02871	CAS 20556-16-5
+H06	Val-Gly	N-Source, peptide		CAS 686-43-1
+H07	Val-His	N-Source, peptide		CAS 13589-07-6
+H08	Val-Ile	N-Source, peptide		CAS 20556-14-3
+H09	Val-Leu	N-Source, peptide	C05035	CAS 95977-55-2
+H10	Val-Tyr	N-Source, peptide	C05039	CAS 3061-91-4
+H11	Val-Val	N-Source, peptide		CAS 3918-94-3
+H12	g-Glu-Gly	N-Source, peptide		CAS 1948-29-4

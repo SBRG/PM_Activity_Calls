@@ -1,2 +1,2 @@
-# PM_Activity_Calls
-Python notebook workflow to make metabolic activity calls on PM samples
+# PM_growth_calls
+Workflow to process PM data and make binary growth calls 

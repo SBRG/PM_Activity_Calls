@@ -1,0 +1,97 @@
+Well	Compound	Description	KEGG ID	CAS ID
+A01	1% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A02	2% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A03	3% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A04	4% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A05	5% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A06	5.5% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A07	6% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A08	6.5% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A09	7% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A10	8% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A11	9% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+A12	10% NaCl	osmotic sensitivity, NaCl	C13563	CAS 7647-14-5
+B01	6% NaCl	osmotic sensitivity, NaCl control	C13563	CAS 7647-14-5
+B02	6% NaCl + Betaine	osmolyte, betaine	C00719	CAS 107-43-7
+B03	6% NaCl + N,N Dimethyl Glycine	osmolyte, dimethylglycine	C01026	CAS 1118-68-9
+B04	6% NaCl + Sarcosine	osmolyte, sarcosine	C00213	CAS 107-97-1
+B05	6% NaCl + Dimethyl Sulphonyl Propionate	osmolyte, dimethyl sulphonyl propionate		CAS Dimethyl Sulphonyl Propionate
+B06	6% NaCl + MOPS	osmolyte, MOPS		CAS 1132-61-2
+B07	6% NaCl + Ectoine	osmolyte, ectoine	C06231	CAS 96702-03-3
+B08	6% NaCl + Choline	osmolyte, choline	C00114	CAS 77-91-8
+B09	6% NaCl + Phosphorylcholine	osmolyte, phosphorylcholine	C00588	CAS 4826-71-5
+B10	6% NaCl + Creatine	osmolyte, creatine	C00300	CAS 57-00-1
+B11	6% NaCl + Creatinine	osmolyte, creatinine	C00791	CAS 19230-81-0
+B12	6% NaCl + L-Carnitine	osmolyte, carnitine	C00318	CAS 44985-71-9
+C01	6% NaCl + KCl	osmolyte, KCl		CAS 7447-40-7
+C02	6% NaCl + L-Proline	osmolyte, proline	C00148	CAS 147-85-3
+C03	6% NaCl + N-Acetyl-L-Glutamine	osmolyte, acetyl glutamine		CAS 35305-74-9
+C04	6% NaCl + b-Glutamic acid	osmolyte, b-glutamate		CAS 1948-48-7
+C05	6% NaCl + g-Amino-N-Butyric acid	osmolyte, g-amino butyric acid	C00334	CAS 56-12-2
+C06	6% NaCl + Glutathione	osmolyte, glutathione	C00051	CAS 70-18-8
+C07	6% NaCl + Glycerol	osmolyte, glycerol	C00116	CAS 56-81-5
+C08	6% NaCl + Trehalose	osmolyte, trehalose	C01083	CAS 99-20-7
+C09	6% NaCl + Trimethylamine-N-Oxide	osmolyte, trimethylamine-N-oxide	C01104	CAS 1184-78-7
+C10	6% NaCl + Trimethylamine	osmolyte, trimethylamine	C00565	CAS 75-50-3
+C11	6% NaCl + Octopine	osmolyte, octopine	C04137	CAS 34522-32-2
+C12	6% NaCl + Trigonelline	osmolyte, trigonelline	C01004	CAS 535-83-1
+D01	3% Potassium Chloride	osmotic sensitivity, KCl		CAS 7447-40-7
+D02	4% Potassium chloride	osmotic sensitivity, KCl		CAS 7447-40-7
+D03	5% Potassium Chloride	osmotic sensitivity, KCl		CAS 7447-40-7
+D04	6% Potassium chloride	osmotic sensitivity, KCl		CAS 7447-40-7
+D05	2% Sodium Sulfate	osmotic sensitivity, Na2SO4	C13199	CAS 7757-82-6
+D06	3% Sodium Sulfate	osmotic sensitivity, Na2SO4	C13199	CAS 7757-82-6
+D07	4% Sodium Sulfate	osmotic sensitivity, Na2SO4	C13199	CAS 7757-82-6
+D08	5% Sodium Sulfate	osmotic sensitivity, Na2SO4	C13199	CAS 7757-82-6
+D09	5% Ethylene Glycol	osmotic sensitivity, ethylene glycol	C01380	CAS 107-21-1
+D10	10% Ethylene Glycol	osmotic sensitivity, ethylene glycol	C01380	CAS 107-21-1
+D11	15% Ethylene Glycol	osmotic sensitivity, ethylene glycol	C01380	CAS 107-21-1
+D12	20% Ethylene Glycol	osmotic sensitivity, ethylene glycol	C01380	CAS 107-21-1
+E01	1% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E02	2% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E03	3% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E04	4% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E05	5% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E06	6% Sodium Formate	osmotic sensitivity, sodium formate	C00058	CAS 141-53-7
+E07	2% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+E08	3% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+E09	4% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+E10	5% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+E11	6% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+E12	7% Urea	osmotic sensitivity, urea	C00086	CAS 57-13-6
+F01	1% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F02	2% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F03	3% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F04	4% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F05	5% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F06	6% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F07	7% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F08	8% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F09	9% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F10	10% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F11	11% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+F12	12% Sodium Lactate	osmotic sensitivity, sodium lactate	C13960	CAS 72-17-3
+G01	20mM Sodium Phosphate pH 7	osmotic sensitivity, sodium phosphate	C00009	CAS 7601-54-9
+G02	50mM Sodium Phosphate pH 7	osmotic sensitivity, sodium phosphate	C00009	CAS 7601-54-9
+G03	100mM Sodium Phosphate pH 7	osmotic sensitivity, sodium phosphate	C00009	CAS 7601-54-9
+G04	200mM Sodium Phosphate pH 7	osmotic sensitivity, sodium phosphate	C00009	CAS 7601-54-9
+G05	20mM Sodium Benzoate pH 5.2	toxicity, benzoate	C00180	CAS 532-32-1
+G06	50mM Sodium Benzoate pH 5.2	toxicity, benzoate	C00180	CAS 532-32-1
+G07	100mM Sodium Benzoate pH 5.2	toxicity, benzoate	C00180	CAS 532-32-1
+G08	200mM Sodium Benzoate pH 5.2	toxicity, benzoate	C00180	CAS 532-32-1
+G09	10mM Ammonium Sulfate pH 8	toxicity, ammonia	C11261	CAS 7783-20-2
+G10	20mM Ammonium Sulfate pH 8	toxicity, ammonia	C11261	CAS 7783-20-2
+G11	50mM Ammonium Sulfate pH 8	toxicity, ammonia	C11261	CAS 7783-20-2
+G12	100mM Ammonium Sulfate pH 8	toxicity, ammonia	C11261	CAS 7783-20-2
+H01	10mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H02	20mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H03	40mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H04	60mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H05	80mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H06	100mM Sodium Nitrate	toxicity, nitrate		CAS 7631-99-4
+H07	10mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0
+H08	20mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0
+H09	40mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0
+H10	60mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0
+H11	80mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0
+H12	100mM Sodium Nitrite	toxicity, nitrite		CAS 7632-00-0

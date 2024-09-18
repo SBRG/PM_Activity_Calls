@@ -1,0 +1,97 @@
+Well	Compound	Description	KEGG ID	CAS ID
+A01	Amikacin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00865	CAS 39831-55-5
+A02	Amikacin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00865	CAS 39831-55-5
+A03	Amikacin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00865	CAS 39831-55-5
+A04	Amikacin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00865	CAS 39831-55-5
+A05	Chlortetracycline_1	protein synthesis, 30S ribosomal subunit, tetracycline	D02255	CAS 64-72-2
+A06	Chlortetracycline_2	protein synthesis, 30S ribosomal subunit, tetracycline	D02255	CAS 64-72-2
+A07	Chlortetracycline_3	protein synthesis, 30S ribosomal subunit, tetracycline	D02255	CAS 64-72-2
+A08	Chlortetracycline_4	protein synthesis, 30S ribosomal subunit, tetracycline	D02255	CAS 64-72-2
+A09	Lincomycin_1	protein synthesis, 50S ribosomal subunit, lincosamide	D02346	CAS 859-18-7
+A10	Lincomycin_2	protein synthesis, 50S ribosomal subunit, lincosamide	D02346	CAS 859-18-7
+A11	Lincomycin_3	protein synthesis, 50S ribosomal subunit, lincosamide	D02346	CAS 859-18-7
+A12	Lincomycin_4	protein synthesis, 50S ribosomal subunit, lincosamide	D02346	CAS 859-18-7
+B01	Amoxicillin_1	wall, lactam	D07452	CAS 26787-78-0
+B02	Amoxicillin_2	wall, lactam	D07452	CAS 26787-78-0
+B03	Amoxicillin_3	wall, lactam	D07452	CAS 26787-78-0
+B04	Amoxicillin_4	wall, lactam	D07452	CAS 26787-78-0
+B05	Cloxacillin_1	wall, lactam	D02231	CAS 7081-44-9
+B06	Cloxacillin_2	wall, lactam	D02231	CAS 7081-44-9
+B07	Cloxacillin_3	wall, lactam	D02231	CAS 7081-44-9
+B08	Cloxacillin_4	wall, lactam	D02231	CAS 7081-44-9
+B09	Lomefloxacin_1	DNA topoisomerase	D00873	CAS 98079-52-8
+B10	Lomefloxacin_2	DNA topoisomerase	D00873	CAS 98079-52-8
+B11	Lomefloxacin_3	DNA topoisomerase	D00873	CAS 98079-52-8
+B12	Lomefloxacin_4	DNA topoisomerase	D00873	CAS 98079-52-8
+C01	Bleomycin_1	DNA damage, oxidation	D02177	CAS 9041-93-4
+C02	Bleomycin_2	DNA damage, oxidation	D02177	CAS 9041-93-4
+C03	Bleomycin_3	DNA damage, oxidation	D02177	CAS 9041-93-4
+C04	Bleomycin_4	DNA damage, oxidation	D02177	CAS 9041-93-4
+C05	Colistin_1	membrane, cyclic peptide	D02138	CAS 1264-72-8
+C06	Colistin_2	membrane, cyclic peptide	D02138	CAS 1264-72-8
+C07	Colistin_3	membrane, cyclic peptide	D02138	CAS 1264-72-8
+C08	Colistin_4	membrane, cyclic peptide	D02138	CAS 1264-72-8
+C09	Minocycline_1	protein synthesis, 30S ribosomal subunit, tetracycline	D00850	CAS 13614-98-7
+C10	Minocycline_2	protein synthesis, 30S ribosomal subunit, tetracycline	D00850	CAS 13614-98-7
+C11	Minocycline_3	protein synthesis, 30S ribosomal subunit, tetracycline	D00850	CAS 13614-98-7
+C12	Minocycline_4	protein synthesis, 30S ribosomal subunit, tetracycline	D00850	CAS 13614-98-7
+D01	Capreomycin_1	protein synthesis	D00135	CAS 1405-37-4
+D02	Capreomycin_2	protein synthesis	D00135	CAS 1405-37-4
+D03	Capreomycin_3	protein synthesis	D00135	CAS 1405-37-4
+D04	Capreomycin_4	protein synthesis	D00135	CAS 1405-37-4
+D05	Demeclocycline_1	protein synthesis, 30S ribosomal subunit, tetracycline	D00290	CAS 64-73-3
+D06	Demeclocycline_2	protein synthesis, 30S ribosomal subunit, tetracycline	D00290	CAS 64-73-3
+D07	Demeclocycline_3	protein synthesis, 30S ribosomal subunit, tetracycline	D00290	CAS 64-73-3
+D08	Demeclocycline_4	protein synthesis, 30S ribosomal subunit, tetracycline	D00290	CAS 64-73-3
+D09	Nafcillin_1	wall, lactam	D00928	CAS 7177-50-6
+D10	Nafcillin_2	wall, lactam	D00928	CAS 7177-50-6
+D11	Nafcillin_3	wall, lactam	D00928	CAS 7177-50-6
+D12	Nafcillin_4	wall, lactam	D00928	CAS 7177-50-6
+E01	Cefazolin_1	wall, cephalosporin	D02299	CAS 25953-19-9
+E02	Cefazolin_2	wall, cephalosporin	D02299	CAS 25953-19-9
+E03	Cefazolin_3	wall, cephalosporin	D02299	CAS 25953-19-9
+E04	Cefazolin_4	wall, cephalosporin	D02299	CAS 25953-19-9
+E05	Enoxacin_1	DNA topoisomerase	D00310	CAS 74011-58-8
+E06	Enoxacin_2	DNA topoisomerase	D00310	CAS 74011-58-8
+E07	Enoxacin_3	DNA topoisomerase	D00310	CAS 74011-58-8
+E08	Enoxacin_4	DNA topoisomerase	D00310	CAS 74011-58-8
+E09	Nalidixic acid_1	DNA topoisomerase	D00183	CAS 3374-05-8
+E10	Nalidixic acid_2	DNA topoisomerase	D00183	CAS 3374-05-8
+E11	Nalidixic acid_3	DNA topoisomerase	D00183	CAS 3374-05-8
+E12	Nalidixic acid_4	DNA topoisomerase	D00183	CAS 3374-05-8
+F01	Chloramphenicol_1	protein synthesis, amphenicol	D00104	CAS 56-75-7
+F02	Chloramphenicol_2	protein synthesis, amphenicol	D00104	CAS 56-75-7
+F03	Chloramphenicol_3	protein synthesis, amphenicol	D00104	CAS 56-75-7
+F04	Chloramphenicol_4	protein synthesis, amphenicol	D00104	CAS 56-75-7
+F05	Erythromycin_1	protein synthesis, 50S ribosomal subunit, macrolide	D00140	CAS 114-07-8
+F06	Erythromycin_2	protein synthesis, 50S ribosomal subunit, macrolide	D00140	CAS 114-07-8
+F07	Erythromycin_3	protein synthesis, 50S ribosomal subunit, macrolide	D00140	CAS 114-07-8
+F08	Erythromycin_4	protein synthesis, 50S ribosomal subunit, macrolide	D00140	CAS 114-07-8
+F09	Neomycin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01618	CAS 1405-10-3
+F10	Neomycin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01618	CAS 1405-10-3
+F11	Neomycin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01618	CAS 1405-10-3
+F12	Neomycin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01618	CAS 1405-10-3
+G01	Ceftriaxone_1	wall, cephalosporin	D00924	CAS 104376-79-6
+G02	Ceftriaxone_2	wall, cephalosporin	D00924	CAS 104376-79-6
+G03	Ceftriaxone_3	wall, cephalosporin	D00924	CAS 104376-79-6
+G04	Ceftriaxone_4	wall, cephalosporin	D00924	CAS 104376-79-6
+G05	Gentamicin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01063	CAS 1405-41-0
+G06	Gentamicin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01063	CAS 1405-41-0
+G07	Gentamicin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01063	CAS 1405-41-0
+G08	Gentamicin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D01063	CAS 1405-41-0
+G09	Potassium tellurite_1	toxic anion		CAS 123333-66-4
+G10	Potassium tellurite_2	toxic anion		CAS 123333-66-4
+G11	Potassium tellurite_3	toxic anion		CAS 123333-66-4
+G12	Potassium tellurite_4	toxic anion		CAS 123333-66-4
+H01	Cephalothin_1	wall, cephalosporin	D00907	CAS 58-71-9
+H02	Cephalothin_2	wall, cephalosporin	D00907	CAS 58-71-9
+H03	Cephalothin_3	wall, cephalosporin	D00907	CAS 58-71-9
+H04	Cephalothin_4	wall, cephalosporin	D00907	CAS 58-71-9
+H05	Kanamycin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00866	CAS 25389-94-0
+H06	Kanamycin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00866	CAS 25389-94-0
+H07	Kanamycin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00866	CAS 25389-94-0
+H08	Kanamycin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00866	CAS 25389-94-0
+H09	Ofloxacin_1	DNA topoisomerase	D00453	CAS 82419-36-1
+H10	Ofloxacin_2	DNA topoisomerase	D00453	CAS 82419-36-1
+H11	Ofloxacin_3	DNA topoisomerase	D00453	CAS 82419-36-1
+H12	Ofloxacin_4	DNA topoisomerase	D00453	CAS 82419-36-1

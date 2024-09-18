@@ -1,0 +1,97 @@
+Well	Compound	Description	KEGG ID	CAS ID
+A01	Penicillin G_1	wall, lactam	D00868	CAS 69-57-8
+A02	Penicillin G_2	wall, lactam	D00868	CAS 69-57-8
+A03	Penicillin G_3	wall, lactam	D00868	CAS 69-57-8
+A04	Penicillin G_4	wall, lactam	D00868	CAS 69-57-8
+A05	Tetracycline_1	protein synthesis, 30S ribosomal subunit, tetracycline	D02122	CAS 64-75-5
+A06	Tetracycline_2	protein synthesis, 30S ribosomal subunit, tetracycline	D02122	CAS 64-75-5
+A07	Tetracycline_3	protein synthesis, 30S ribosomal subunit, tetracycline	D02122	CAS 64-75-5
+A08	Tetracycline_4	protein synthesis, 30S ribosomal subunit, tetracycline	D02122	CAS 64-75-5
+A09	Carbenicillin_1	wall, lactam	D02190	CAS 4800-94-6
+A10	Carbenicillin_2	wall, lactam	D02190	CAS 4800-94-6
+A11	Carbenicillin_3	wall, lactam	D02190	CAS 4800-94-6
+A12	Carbenicillin_4	wall, lactam	D02190	CAS 4800-94-6
+B01	Oxacillin_1	wall, lactam	D00929	CAS 7240-38-2
+B02	Oxacillin_2	wall, lactam	D00929	CAS 7240-38-2
+B03	Oxacillin_3	wall, lactam	D00929	CAS 7240-38-2
+B04	Oxacillin_4	wall, lactam	D00929	CAS 7240-38-2
+B05	Penimepicycline_1	protein synthesis, 30S ribosomal subunit, tetracycline	D07233	CAS 4599-60-4
+B06	Penimepicycline_2	protein synthesis, 30S ribosomal subunit, tetracycline	D07233	CAS 4599-60-4
+B07	Penimepicycline_3	protein synthesis, 30S ribosomal subunit, tetracycline	D07233	CAS 4599-60-4
+B08	Penimepicycline_4	protein synthesis, 30S ribosomal subunit, tetracycline	D07233	CAS 4599-60-4
+B09	Polymyxin B_1	membrane, cyclic peptide	D01066	CAS 1405-20-5
+B10	Polymyxin B_2	membrane, cyclic peptide	D01066	CAS 1405-20-5
+B11	Polymyxin B_3	membrane, cyclic peptide	D01066	CAS 1405-20-5
+B12	Polymyxin B_4	membrane, cyclic peptide	D01066	CAS 1405-20-5
+C01	Paromomycin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00868	CAS 1263-89-4
+C02	Paromomycin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00868	CAS 1263-89-4
+C03	Paromomycin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00868	CAS 1263-89-4
+C04	Paromomycin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00868	CAS 1263-89-4
+C05	Vancomycin_1	wall	D00926	CAS 1404-93-9
+C06	Vancomycin_2	wall	D00926	CAS 1404-93-9
+C07	Vancomycin_3	wall	D00926	CAS 1404-93-9
+C08	Vancomycin_4	wall	D00926	CAS 1404-93-9
+C09	DL-Serine hydroxamate_1	tRNA synthetase		CAS 55779-32-3
+C10	DL-Serine hydroxamate_2	tRNA synthetase		CAS 55779-32-3
+C11	DL-Serine hydroxamate_3	tRNA synthetase		CAS 55779-32-3
+C12	DL-Serine hydroxamate_4	tRNA synthetase		CAS 55779-32-3
+D01	Sisomicin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D02181	CAS 53179-09-2
+D02	Sisomicin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D02181	CAS 53179-09-2
+D03	Sisomicin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D02181	CAS 53179-09-2
+D04	Sisomicin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D02181	CAS 53179-09-2
+D05	Sulfamethazine_1	folate antagonist, PABA analog	D08539	CAS 1981-58-4
+D06	Sulfamethazine_2	folate antagonist, PABA analog	D08539	CAS 1981-58-4
+D07	Sulfamethazine_3	folate antagonist, PABA analog	D08539	CAS 1981-58-4
+D08	Sulfamethazine_4	folate antagonist, PABA analog	D08539	CAS 1981-58-4
+D09	Novobiocin_1	DNA topoisomerase	D01209	CAS 1476-53-5
+D10	Novobiocin_2	DNA topoisomerase	D01209	CAS 1476-53-5
+D11	Novobiocin_3	DNA topoisomerase	D01209	CAS 1476-53-5
+D12	Novobiocin_4	DNA topoisomerase	D01209	CAS 1476-53-5
+E01	2,4-Diamino-6,7-diisopropylpteridine_1	folate antagonist, vibriostatic agent		CAS 84176-65-8
+E02	2,4-Diamino-6,7-diisopropylpteridine_2	folate antagonist, vibriostatic agent		CAS 84176-65-8
+E03	2,4-Diamino-6,7-diisopropylpteridine_3	folate antagonist, vibriostatic agent		CAS 84176-65-8
+E04	2,4-Diamino-6,7-diisopropylpteridine_4	folate antagonist, vibriostatic agent		CAS 84176-65-8
+E05	Sulfadiazine_1	folate antagonist, PABA analog	D05949	CAS 547-32-0
+E06	Sulfadiazine_2	folate antagonist, PABA analog	D05949	CAS 547-32-0
+E07	Sulfadiazine_3	folate antagonist, PABA analog	D05949	CAS 547-32-0
+E08	Sulfadiazine_4	folate antagonist, PABA analog	D05949	CAS 547-32-0
+E09	Benzethonium Chloride_1	membrane, detergent, cationic	D01140	CAS 121-54-0
+E10	Benzethonium Chloride_2	membrane, detergent, cationic	D01140	CAS 121-54-0
+E11	Benzethonium Chloride_3	membrane, detergent, cationic	D01140	CAS 121-54-0
+E12	Benzethonium Chloride_4	membrane, detergent, cationic	D01140	CAS 121-54-0
+F01	Tobramycin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00063	CAS 32986-56-4
+F02	Tobramycin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00063	CAS 32986-56-4
+F03	Tobramycin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00063	CAS 32986-56-4
+F04	Tobramycin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00063	CAS 32986-56-4
+F05	Sulfathiazole_1	folate antagonist, PABA analog	D01047	CAS 144-74-1
+F06	Sulfathiazole_2	folate antagonist, PABA analog	D01047	CAS 144-74-1
+F07	Sulfathiazole_3	folate antagonist, PABA analog	D01047	CAS 144-74-1
+F08	Sulfathiazole_4	folate antagonist, PABA analog	D01047	CAS 144-74-1
+F09	5-Fluoroorotic acid_1	nucleic acid analog, pyrimidine		CAS 207291-81-4
+F10	5-Fluoroorotic acid_2	nucleic acid analog, pyrimidine		CAS 207291-81-4
+F11	5-Fluoroorotic acid_3	nucleic acid analog, pyrimidine		CAS 207291-81-4
+F12	5-Fluoroorotic acid_4	nucleic acid analog, pyrimidine		CAS 207291-81-4
+G01	Spectinomycin_1	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00869	CAS 21736-83-4
+G02	Spectinomycin_2	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00869	CAS 21736-83-4
+G03	Spectinomycin_3	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00869	CAS 21736-83-4
+G04	Spectinomycin_4	protein synthesis, 30S ribosomal subunit, aminoglycoside	D00869	CAS 21736-83-4
+G05	Sulfamethoxazole_1	folate antagonist, PABA analog	D00447	CAS 723-46-6
+G06	Sulfamethoxazole_2	folate antagonist, PABA analog	D00447	CAS 723-46-6
+G07	Sulfamethoxazole_3	folate antagonist, PABA analog	D00447	CAS 723-46-6
+G08	Sulfamethoxazole_4	folate antagonist, PABA analog	D00447	CAS 723-46-6
+G09	L-Aspartic-b-hydroxamate_1	tRNA synthetase		CAS 1955-68-6
+G10	L-Aspartic-b-hydroxamate_2	tRNA synthetase		CAS 1955-68-6
+G11	L-Aspartic-b-hydroxamate_3	tRNA synthetase		CAS 1955-68-6
+G12	L-Aspartic-b-hydroxamate_4	tRNA synthetase		CAS 1955-68-6
+H01	Spiramycin_1	protein synthesis, 50S ribosomal subunit, macrolide	D05908	CAS 8025-81-8
+H02	Spiramycin_2	protein synthesis, 50S ribosomal subunit, macrolide	D05908	CAS 8025-81-8
+H03	Spiramycin_3	protein synthesis, 50S ribosomal subunit, macrolide	D05908	CAS 8025-81-8
+H04	Spiramycin_4	protein synthesis, 50S ribosomal subunit, macrolide	D05908	CAS 8025-81-8
+H05	Rifampicin_1	RNA polymerase	D00211	CAS 13292-46-1
+H06	Rifampicin_2	RNA polymerase	D00211	CAS 13292-46-1
+H07	Rifampicin_3	RNA polymerase	D00211	CAS 13292-46-1
+H08	Rifampicin_4	RNA polymerase	D00211	CAS 13292-46-1
+H09	Dodecyltrimethyl ammonium bromide_1	membrane, detergent, cationic	C20389	CAS 1119-94-4
+H10	Dodecyltrimethyl ammonium bromide_2	membrane, detergent, cationic	C20389	CAS 1119-94-4
+H11	Dodecyltrimethyl ammonium bromide_3	membrane, detergent, cationic	C20389	CAS 1119-94-4
+H12	Dodecyltrimethyl ammonium bromide_4	membrane, detergent, cationic	C20389	CAS 1119-94-4
